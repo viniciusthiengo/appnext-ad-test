@@ -10,7 +10,7 @@ O conteúdo do artigo também está disponível em [vídeo](https://www.thiengo.
 
 ### Primeira parte
 
-Caso você queira ter acesso à primeira parte do artigo, então [entre por aqui](https://www.thiengo.com.br/mvp-android#title-1). Está primeira parte apresenta, de maneira teórica, a plataforma de anúncios Appnext.
+Caso você queira ter acesso à primeira parte do artigo, então [entre por aqui](https://www.thiengo.com.br/appnext-para-monetizar-sua-app-android#title-1). Está primeira parte apresenta, de maneira teórica, a plataforma de anúncios Appnext.
 
 ### AndroidX
 
