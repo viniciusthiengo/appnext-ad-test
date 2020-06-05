@@ -6,7 +6,7 @@ Artigo que discute em detalhes a plataforma de anúncios Appnext.
 
 <img src="https://www.thiengo.com.br/img/post/normal/3r16in9sbfl1933u797vh5bb74d230a57a386a3003f8fedc0535cf8f3d.jpg" width="250" alt="Appnext para Monetizar sua APP Android">
 
-O conteúdo do artigo também está disponível em [vídeo](https://www.thiengo.com.br/appnext-para-monetizar-sua-app-android#title-4).
+O conteúdo do artigo também está disponível em [vídeo](https://www.thiengo.com.br/appnext-para-monetizar-sua-app-android#title-7).
 
 ### Primeira parte
 
